@@ -1,0 +1,13 @@
+{
+  "name": "brandguideline",
+  "version": "0.0.1",
+  "description": "Brand Guideline",
+  "main": "index.js",
+  "scripts": null,
+  "keywords": [
+    "Brand",
+    "Guideline"
+  ],
+  "author": "Mark Aurel",
+  "license": "ISC"
+}
