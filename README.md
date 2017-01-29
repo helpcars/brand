@@ -1,1 +1,1 @@
-"# markaurel.github.io" 
+## HC - Brand Guideline
