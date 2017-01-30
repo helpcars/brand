@@ -1,15 +1,26 @@
-.sidebar {
-  position: fixed;
+.SidebarBox {
   top: 30px;
-  float: left;
 }
 
 .box-content {
  display: block;
- min-height: 70%;
  padding-bottom: 60px;
 }
 
 .box-content h3 {
   padding-top: 30px;
+}
+
+.logotype-logo {
+  margin: 60px 0 20px 0;
+}
+.colors-logo {
+  margin: 20px 0;
+}
+.colors-logo__BackWhite {
+  background: none;
+}
+
+.colors-logo__BackBlack {
+  background: #00c4e0 !important;
 }
