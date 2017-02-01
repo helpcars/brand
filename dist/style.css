@@ -24,3 +24,8 @@
 .colors-logo__BackBlack {
   background: #00c4e0 !important;
 }
+
+.footer {
+  background: #F2F2F2;
+  padding: 20px 0;
+}
