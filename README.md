@@ -4,20 +4,20 @@ Estas diretrizes de identidade visual ajudarão a determinar a melhor maneira de
 #### Logotipo
 Usado sempre que possível
 
-![Logotipo](https://markaurel.github.io/dist/Logo.svg)
-[Download](https://markaurel.github.io/dist/Logo.svg)
+![Logotipo](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo.svg)
+[Download](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo.svg)
 
 #### Logotipo horizontal
 Usado em casos onde a altura é pequena
 
-![Logotipo horizontal](https://markaurel.github.io/dist/Logo-Horizontal.svg)
-[Download](https://markaurel.github.io/dist/Logo-Horizontal.svg)
+![Logotipo horizontal](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo-Horizontal.svg)
+[Download](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo-Horizontal.svg)
 
 #### Logotipo minimalista
 Usado em locais com fundos escuros
 
-![Logotipo minimalista](https://markaurel.github.io/dist/Logo-BackgroundBlack.svg)
-[Download](https://markaurel.github.io/dist/Logo-BackgroundBlack.svg)
+![Logotipo minimalista](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo-BackgroundBlack.svg)
+[Download](https://raw.githubusercontent.com/helpcars/brand/master/dist/Logo-BackgroundBlack.svg)
 
 > Pedimos que não edite, altere, distorça, altera a cor ou reconfigure a logo. Obrigado!
 
